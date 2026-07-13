@@ -2,11 +2,13 @@
   "repo": "skillshare",
   "feeds": [
     {
-      "source": "https://www.skillshare.com/en/blog",
+      "source": "https://help.skillshare.com/hc/en-us",
+      "feed_url": "https://help.skillshare.com/hc/en-us",
+      "title": "",
       "saved": 0,
-      "error": "403 Forbidden"
+      "method": "none"
     }
   ],
-  "fetched": "2026-06-27T13:10:11Z",
+  "fetched": "2026-07-11T11:50:51Z",
   "post_count": 0
 }
