@@ -19,9 +19,20 @@ description: >-
   portal, public webhook system, or third-party integration API for the
   Skillshare catalog, enrollments, watch-time, or teacher-payout data.
 type: Index
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 position: Provider
 access: 3rd-Party
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/skillshare.png
 tags:
   - Online Learning
   - E-Learning
